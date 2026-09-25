@@ -1,0 +1,2 @@
+model,nseeds,d_marked_mean,d_marked_std,cell_rmse_stdunits_mean,cell_rmse_stdunits_std,stat_marked_mean,stat_marked_std,log10p_hoeffding_mean,log10p_hoeffding_std,stat_unmarked_mean,stat_unmarked_std,c2st_logreg_mean,c2st_logreg_std,c2st_hgb_mean,c2st_hgb_std
+faketest,2,2.0,0.0,0.03183428849339466,0.0004349054722653371,0.9112097197859674,0.006452562170538145,-300.0,0.0,0.012845267869356051,0.022808947793886192,0.5092975,0.0061412223946050466,0.7602703124999999,0.031093694877463742

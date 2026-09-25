@@ -1,0 +1,2 @@
+model,nseeds,d_marked_mean,d_marked_std,cell_rmse_stdunits_mean,cell_rmse_stdunits_std,stat_marked_mean,stat_marked_std,log10p_hoeffding_mean,log10p_hoeffding_std,stat_unmarked_mean,stat_unmarked_std,c2st_logreg_mean,c2st_logreg_std,c2st_hgb_mean,c2st_hgb_std
+localtest,2,2.0,0.0,0.03152497553737279,0.0008780761614014854,0.91253797236526,9.271893818822058e-05,-300.0,0.0,-0.010726222835816823,0.0026912881123525335,0.5003060416666667,0.012685790282312167,0.8420740625,0.007660077939666312

@@ -1,0 +1,10 @@
+attack,intensity,nseeds,ber_mean,ber_std,total_bits
+none,0,2,0.0,0.0,32
+cell_noise,0.02,2,0.0,0.0,32
+cell_noise,0.05,2,0.0,0.0,32
+cell_noise,0.1,2,0.0,0.0,32
+round_sig,2,2,0.0,0.0,32
+edit_rows,0.4,2,0.0,0.0,32
+edit_rows,0.7,2,0.0,0.0,32
+subsample,0.1,2,0.0,0.0,32
+reimpute,0.1,2,0.0,0.0,32

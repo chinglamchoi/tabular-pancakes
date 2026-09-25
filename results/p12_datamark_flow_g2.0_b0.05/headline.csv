@@ -1,0 +1,2 @@
+d_marked,nseeds,cell_rmse_stdunits_mean,cell_rmse_stdunits_std,stat_marked_mean,stat_marked_std,log10p_hoeffding_marked_mean,log10p_hoeffding_marked_std,stat_marked_selffit_mean,stat_marked_selffit_std,stat_unmarked_mean,stat_unmarked_std,c2st_logreg_mean,c2st_logreg_std,c2st_hgb_mean,c2st_hgb_std
+64,1,0.03499804133882034,0.0,0.9452522158892117,0.0,-300.0,0.0,0.9273874621608674,0.0,0.005664016505806529,0.0,0.50338125,0.0,0.5012675,0.0

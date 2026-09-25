@@ -1,0 +1,17 @@
+null,method,alpha,fpr,trials
+gaussian,mc,0.01,0.02,100
+gaussian,mc,0.001,0.0,100
+gaussian,hoeffding,0.01,0.0,100
+gaussian,hoeffding,0.001,0.0,100
+student_t3,mc,0.01,0.0,100
+student_t3,mc,0.001,0.0,100
+student_t3,hoeffding,0.01,0.0,100
+student_t3,hoeffding,0.001,0.0,100
+ar_correlated,mc,0.01,0.02,100
+ar_correlated,mc,0.001,0.0,100
+ar_correlated,hoeffding,0.01,0.0,100
+ar_correlated,hoeffding,0.001,0.0,100
+bimodal,mc,0.01,0.0,100
+bimodal,mc,0.001,0.0,100
+bimodal,hoeffding,0.01,0.0,100
+bimodal,hoeffding,0.001,0.0,100

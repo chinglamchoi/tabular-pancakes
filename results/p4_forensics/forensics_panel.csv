@@ -1,0 +1,4 @@
+table,benford_cols,benford_min_p_bonf,terminal_cols,terminal_min_p_bonf,lasttwo_cols,lasttwo_min_p_bonf
+real_breast_cancer,4,0.00037234617580594377,30,0.0,30,4.891858994698741e-53
+crude_fake,10,1.1721111142183053e-139,10,0.0,10,2.794385668332154e-08
+marked_generator,3,5.281040780573336e-35,24,0.5231948053692944,24,0.0027326411462322035
